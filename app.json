@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "CarpenterInvoiceApp",
-    "slug": "CarpenterInvoiceApp",
+    "name": "Hisab",
+    "slug": "Hisab",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/hisab.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -17,13 +17,19 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/hisab.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.carpenter.hisab"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "02821456-bccd-41bd-8eed-092d9673e21a"
+      }
     }
   }
 }
