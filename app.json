@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "hisab3.0",
-    "slug": "hisab3.0",
+    "name": "Hisab ",
+    "slug": "Hisab",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/hisab.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/hisab.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,13 +17,20 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/hisab.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.abhay07jj.Hisab"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/hisab.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "340829b3-6e3c-443b-9b08-9713be1bd107"
+      }
+    },
+    "owner": "abhay07jj"
   }
 }
