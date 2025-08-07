@@ -27,7 +27,20 @@ A simple, offline-first React Native (Expo) mobile application designed specific
 
 ## 📱 Screenshots
 
-*Note: Screenshots to be added after app testing*
+<img src="https://github.com/user-attachments/assets/e4458daa-b272-4439-aa00-ec8ad8f53547" width="300" />
+<img src="https://github.com/user-attachments/assets/0827565f-a3e7-4f7b-8249-fbe56aa2957e" width="300" />
+<img src="https://github.com/user-attachments/assets/06eab96a-6303-41ae-8d90-109c49290557" width="300" />
+<img src="https://github.com/user-attachments/assets/7d1e0233-6452-4b0d-bf15-801dc4091b29" width="300" />
+<img src="https://github.com/user-attachments/assets/3e388a92-6b43-4799-93ea-7ede255b419a" width="300" />
+
+## 🧾 Final Output PDF Generated
+
+<img src="https://github.com/user-attachments/assets/b422e422-c2f5-4b56-a42d-75f834b7e9cc" width="600" />
+
+📄 [Download Final PDF](https://github.com/user-attachments/files/21650811/00086186-c074-46c2-bf42-2a1375da90b3.1.pdf)
+
+## download link
+https://expo.dev/artifacts/eas/gL3zcdN6Fxm7X11GCefiJ6.apk
 
 ## 🚀 Getting Started
 
